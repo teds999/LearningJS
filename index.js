@@ -1,3 +1,1 @@
-const userDistance = 45;
-const shipingCost = userDistance<= 50 ? 10 : 15;
-console.log(shipingCost);
+console.log (Math.round = 2.33123123)
